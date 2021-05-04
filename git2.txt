@@ -1,2 +1,5 @@
 Git 2 txt 
-online duzeltme localden
+
+
+Online duzeltme
+
